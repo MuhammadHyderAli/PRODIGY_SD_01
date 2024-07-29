@@ -1,0 +1,8 @@
+﻿  TempConv.cpp
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(9,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(10,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(20,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(21,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(30,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\TempConvt\TempConv.cpp(31,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TempConvt.vcxproj -> C:\Users\hyder\Desktop\Temperation Converstion Prgram\TempConvt\x64\Debug\TempConvt.exe
